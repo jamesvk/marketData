@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  min-width: 1200px;
+  font-family: sans-serif;
+}
+
+.Montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.Roboto {
+  font-family: 'Roboto', sans-serif;
+}
+
+.Playfair-display {
+  font-family: 'Playfair Display', serif;
+}
+
+.Tajawal {
+  font-family: 'Tajawal', sans-serif;
+}
