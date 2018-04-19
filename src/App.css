@@ -26,7 +26,7 @@
 
 .App-header {
   height: 180px;
-  background-color: rgba(38, 236, 170, 0.87);
+  background-color: rgba(37, 137, 213, 0.87);
   color: white;
 }
 .App-title {
@@ -35,7 +35,6 @@
   margin-bottom: 0;
   padding-top: 70px;
   font-size: 100px;
-  text-shadow: 1px 0px 10px rgb(209, 209, 209);
 }
 
 .Form-container {
@@ -46,13 +45,13 @@
   height: 25px;
   border: none;
   outline: none;
-  color: rgba(22, 158, 113, 0.87);
+  color: rgba(37, 137, 213, 0.87);
 
 }
 ::placeholder {
   font-size: 12px;
   font-style: italic;
-  color: rgba(24, 190, 135, 0.87);
+  color: rgba(37, 137, 213, 0.87);
 }
 
 .Market-news-cont {
@@ -160,7 +159,7 @@
   min-height: 500px;
   margin-left: 5px; 
   margin-right: 5px;
-  border: 1px solid rgba(38, 236, 170, 0.87);
+  border: 1px solid rgba(37, 137, 213, 0.87);
   border-right: none;
   border-left: none;
 }
